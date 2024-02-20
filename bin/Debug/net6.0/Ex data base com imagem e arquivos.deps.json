@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex data base com imagem e arquivos/1.0.0": {
+        "runtime": {
+          "Ex data base com imagem e arquivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex data base com imagem e arquivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

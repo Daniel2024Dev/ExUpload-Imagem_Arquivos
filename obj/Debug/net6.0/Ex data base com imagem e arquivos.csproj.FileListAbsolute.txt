@@ -1,0 +1,78 @@
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/appsettings.Development.json
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/appsettings.json
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.staticwebassets.runtime.json
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.deps.json
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.runtimeconfig.json
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.dll
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/ref/Ex data base com imagem e arquivos.dll
+/home/daniel/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.pdb
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.csproj.AssemblyReference.cache
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.AssemblyInfoInputs.cache
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.AssemblyInfo.cs
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.csproj.CoreCompileInputs.cache
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.RazorAssemblyInfo.cache
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.RazorAssemblyInfo.cs
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/staticwebassets.build.json
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/staticwebassets.development.json
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/bundle/Ex data base com imagem e arquivos.styles.css
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/projectbundle/Ex data base com imagem e arquivos.bundle.scp.css
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.dll
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/ref/Ex data base com imagem e arquivos.dll
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.pdb
+/home/daniel/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.genruntimeconfig.cache
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/appsettings.Development.json
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/appsettings.json
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.staticwebassets.runtime.json
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.deps.json
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.runtimeconfig.json
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.dll
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/ref/Ex data base com imagem e arquivos.dll
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.pdb
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.csproj.AssemblyReference.cache
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.AssemblyInfoInputs.cache
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.AssemblyInfo.cs
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.csproj.CoreCompileInputs.cache
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.RazorAssemblyInfo.cache
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.RazorAssemblyInfo.cs
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/staticwebassets.build.json
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/staticwebassets.development.json
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/bundle/Ex data base com imagem e arquivos.styles.css
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/projectbundle/Ex data base com imagem e arquivos.bundle.scp.css
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.dll
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/ref/Ex data base com imagem e arquivos.dll
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.pdb
+/home/daniel/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.genruntimeconfig.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/appsettings.Development.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/appsettings.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.staticwebassets.runtime.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.deps.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.runtimeconfig.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/ref/Ex data base com imagem e arquivos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/bin/Debug/net6.0/Ex data base com imagem e arquivos.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.csproj.AssemblyReference.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.AssemblyInfoInputs.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.AssemblyInfo.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.csproj.CoreCompileInputs.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.RazorAssemblyInfo.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.RazorAssemblyInfo.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/staticwebassets.build.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/staticwebassets.development.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/bundle/Ex data base com imagem e arquivos.styles.css
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/scopedcss/projectbundle/Ex data base com imagem e arquivos.bundle.scp.css
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/ref/Ex data base com imagem e arquivos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com imagem e arquivos/obj/Debug/net6.0/Ex data base com imagem e arquivos.genruntimeconfig.cache
